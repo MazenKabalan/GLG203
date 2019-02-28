@@ -1,4 +1,7 @@
-Tutorial web site : https://mazenkabalan.github.io
+Projet C1 : Tutoriel d' Apache Cassandra
 
-Tutorial powerpoint presentation : https://drive.google.com/open?id=1wZ6h1_5Gr1sKoEbukpqAGMK7VunTmMjdEJOvwynE4ng
+Tutoriel site web : https://mazenkabalan.github.io
 
+Tutoriel presentation google slides : https://drive.google.com/open?id=1wZ6h1_5Gr1sKoEbukpqAGMK7VunTmMjdEJOvwynE4ng
+
+Merci
